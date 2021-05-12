@@ -3,7 +3,7 @@
 
 ### 🔗 Links 
 - Surge Link: http://pokedex13-cruz.surge.sh/
-
+- API Link: https://pokeapi.co/
 
 ### ⛏ Funcionalidades 
 - Todas as funcionalidades solicitadas e responsividade
