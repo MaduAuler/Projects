@@ -1,7 +1,9 @@
 ### <p align="center">💻 LabeFood 7 💻</p>
 
-&nbsp
-<p align="center">Link do Surge: http://rappi4c.surge.sh/</p>
+
+<p align="center">Surge Link: http://rappi4c.surge.sh/</p>
+
+<p align="center">Zeplin Link: https://app.zeplin.io/project/5dd5ae92669af1bc817c8359</p>
 
 
 ### Funcionamento 🛠
