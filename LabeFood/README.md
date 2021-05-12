@@ -39,5 +39,5 @@
 ![image](https://user-images.githubusercontent.com/60359003/117515686-58244480-af6d-11eb-86a7-fbcb25787ef5.png)
 ***
 
-![image](https://user-images.githubusercontent.com/60359003/117515696-5e1a2580-af6d-11eb-83f6-37d62f068b40.png)
+
 
