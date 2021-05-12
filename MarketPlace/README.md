@@ -4,8 +4,8 @@
   
 </div> 
 &nbsp
-<p align="center">Link do Surge: http://elo4-marketplace10.surge.sh/</p>
-<p align="center">Link da API: https://documenter.getpostman.com/view/9133542/TVzXDFXL</p>
+<p align="center">Surge Link: http://elo4-marketplace10.surge.sh/</p>
+<p align="center">API Link: https://documenter.getpostman.com/view/9133542/TVzXDFXL</p>
 
 
 
