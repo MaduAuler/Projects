@@ -1,19 +1,13 @@
-### <p align="center">💻 Elo4 - Cruz-Marketplace 10 💻</p>
+### <p align="center">💻 Elo4 - Marketplace  💻</p>
 
 <div align="center" margin-bottom="10px">
-  <i>Beatriz Lisboa, Gabriel Dienstmann Musse, Maria Eduarda Auler, Milena Cacau e Thiago Jatobá</i>
+  
 </div> 
 &nbsp
 <p align="center">Link do Surge: http://elo4-marketplace10.surge.sh/</p>
 <p align="center">Link da API: https://documenter.getpostman.com/view/9133542/TVzXDFXL</p>
 
-### Funcionamento 🛠
 
-- [x] Cadastro de produtos
-- [x] Adiciona produtos ao carrinho
-- [x] Remove produtos do carrinho
-- [x] Filtro por preço, loja, nome
-- [x] Ordenação por preço (crescente/descrescente) e alfabética (a-z / z-a)
 
 ### Prints 🎨
 
