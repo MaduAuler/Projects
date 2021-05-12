@@ -1,7 +1,7 @@
-### <p align="center">💻 LabeFood 7 💻</p>
+### <p align="center">💻 MOBILE PROJECT 💻</p>
+                  
 
-
-<p align="center">Surge Link: http://rappi4c.surge.sh/</p>
+<p align="center">Surge Link: http://rappi4c.surge.sh/      Login : visitor@gmail.com  Password: 123456 </p>
 
 <p align="center">Zeplin Link: https://app.zeplin.io/project/5dd5ae92669af1bc817c8359</p>
 
