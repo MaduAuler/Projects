@@ -6,15 +6,15 @@
 <p align="center">Zeplin Link: https://app.zeplin.io/project/5dd5ae92669af1bc817c8359</p>
 
 
-### Funcionamento 🛠
+### 🛠
 
-- [x] Login e cadastro de usuários
-- [x] Home com a lista de restaurantes, possibilitando filtro por categoria ou pesquisa
-- [x] Página de detalhes de cada restaurante, possibilitando ver os pratos e adicionar/remover ao carrinho
-- [x] Carrinho com o subtotal e confirmação de pedido
-- [x] Pedido em andamento a mostra na home
-- [x] Atualização de perfil
-- [x] Histórico de pedidos
+- [x] Login and registration of users
+- [x] Home with the list of restaurants, making it possible to filter by a category
+- [x] Details page for each restaurant, making it possible to see the dishes and add/remove them to the cart
+- [x] Cart with subtotal and order confirmation
+- [x] Order in progress showed at HomePage
+- [x] Profile update
+- [x] Order history
 
 ### Prints 🎨
 ![image](https://user-images.githubusercontent.com/60359003/117515568-0976aa80-af6d-11eb-8538-d76628f42efa.png)
